@@ -12,13 +12,16 @@ Baixe a versão mais nova em [Releases](https://github.com/lmardark/criativa-app
    2. clique em **Executar assim mesmo**.
 3. O instalador não pede administrador: instala só para o seu usuário.
 
-## Mac (Apple Silicon: M1 em diante)
+## Mac
 
-1. Baixe o arquivo `Criativa_..._aarch64.dmg`, abra e arraste a Criativa para a pasta Aplicativos.
+1. Baixe o arquivo do seu Mac e abra; depois arraste a Criativa para a pasta Aplicativos:
+   - **Apple Silicon (M1 em diante):** `Criativa_..._aarch64.dmg`;
+   - **Intel:** `Criativa_..._x64.dmg`.
+
+   Para saber qual é o seu: menu Apple > Sobre Este Mac, na linha "Chip" ou "Processador".
 2. Na primeira vez, o Mac bloqueia o app, porque ele ainda não tem a assinatura da Apple:
    1. abra **Ajustes do Sistema > Privacidade e Segurança**;
    2. desça até a mensagem sobre a Criativa e clique em **Abrir Mesmo Assim**.
-3. Mac com processador Intel ainda não tem versão.
 
 ## Linux (x86_64)
 
